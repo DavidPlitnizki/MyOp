@@ -1,0 +1,284 @@
+[
+    {
+      "id": 1,
+      "title": "Eiffel Tower Visit",
+      "description": "A visit to the iconic Eiffel Tower, enjoy panoramic views of Paris from the top.",
+      "date": "2025-03-10",
+      "location": "Paris, France",
+      "img": "https://media.istockphoto.com/id/2153347966/photo/eiffel-tower-in-paris-france-on-a-sunny-day.jpg?s=1024x1024&w=is&k=20&c=vQo-pg3KoDpEkKE-1mKklwvJKKs6FrjoSiRuGB5G9A4="
+
+    },
+    {
+      "id": 2,
+      "title": "Forbidden City Exploration",
+      "description": "Explore the historic Forbidden City in Beijing, China, the former imperial palace of the Ming and Qing dynasties.",
+      "date": "2025-03-12",
+      "location": "Beijing, China",
+      "img": "https://media.istockphoto.com/id/2154476139/photo/forbidden-city-in-beijing-with-crowds-of-tourists.jpg?s=612x612&w=0&k=20&c=Jo5hYrG6_DIq9S_kawoyDArKXx-sb8jrVjBwZoS-D5M="
+     
+    },
+    {
+      "id": 3,
+      "title": "Great Wall Hike",
+      "description": "Hike along the ancient Great Wall of China, a wonder of the world and symbol of Chinese history.",
+      "date": "2025-03-15",
+      "location": "Beijing, China",
+      "img": "https://media.istockphoto.com/id/156384414/photo/great-wall-of-china-in-summer.jpg?s=612x612&w=0&k=20&c=8vUTy3k1_eDRvjKPg2TO4oKfBXsIpvXJlVP9jc-hYdM="
+     
+    },
+    {
+      "id": 4,
+      "title": "Explore Mount Fuji",
+      "description": "Climb or view Mount Fuji, Japan’s tallest and most famous mountain, known for its beauty and significance.",
+      "date": "2025-03-18",
+      "location": "Fujiyoshida, Japan",
+      "img": "https://media.istockphoto.com/id/2148983989/photo/woman-tourist-with-mount-fuji-at-saiko-iyashino-sato-nenba-in-autumn-season-happy-traveler.jpg?s=612x612&w=0&k=20&c=7dkkRGoY3z0MGKn55ILrsZcfxWeBGDjs2RBUF3moj5I="
+     
+    },
+    {
+      "id": 5,
+      "title": "Sagrada Familia Tour",
+      "description": "Tour the stunning Sagrada Familia in Barcelona, Spain, Antoni Gaudí’s masterpiece of architecture.",
+      "date": "2025-03-20",
+      "location": "Barcelona, Spain",
+      "img": "https://media.istockphoto.com/id/1210149241/photo/sagrada-familia-cathedral-in-spring-barcelona-spain.jpg?s=612x612&w=0&k=20&c=2PWM_tyapKxd-U1uXpEsGHB7cR4bBpfy4RnR-D3Hl9s="
+      
+    },
+    {
+      "id": 6,
+      "title": "Sydney Opera House Visit",
+      "description": "Take a guided tour of the world-famous Sydney Opera House and learn about its fascinating architecture.",
+      "date": "2025-03-22",
+      "location": "Sydney, Australia",
+      "img": "https://media.istockphoto.com/id/533936419/photo/sydney-operahouse.jpg?s=612x612&w=0&k=20&c=8bOtOr9U8YzELw5XzQ7dKv_9gtmwYRGDvoxKAsz3Zu0="
+     
+    },
+    {
+      "id": 7,
+      "title": "Wildlife Safari in Serengeti",
+      "description": "Embark on a wildlife safari in the Serengeti, Tanzania, to see lions, elephants, and other animals in their natural habitat.",
+      "date": "2025-03-25",
+      "location": "Serengeti, Tanzania",
+      "img": "https://media.istockphoto.com/id/2047371501/photo/sydney-opera-house-with-sunset-hues-around.jpg?s=612x612&w=0&k=20&c=gjqlLVTkhrZD1dPf6_TpdKEsLoVT54iI1E2uxVln7dc="
+     
+    },
+    {
+      "id":8,
+      "title": "Machu Picchu Trek",
+      "description": "Hike to the ancient Inca city of Machu Picchu in Peru, one of the New Seven Wonders of the World.",
+      "date": "2025-03-30",
+      "location": "Cusco, Peru",
+      "img": "https://media.istockphoto.com/id/1295790214/photo/choquequirao-one-of-the-best-inca-ruins-in-peru.jpg?s=612x612&w=0&k=20&c=Lo-eF56QFDU1d_riLRwPNWi5VM3Sf6VC1Okrz3a4OVI="
+     
+    },
+    {
+      "id": 9,
+      "title": "Northern Lights Experience",
+      "description": "Witness the mesmerizing Northern Lights in Iceland, one of the most beautiful natural phenomena.",
+      "date": "2025-04-02",
+      "location": "Reykjavik, Iceland",
+      "img": "https://media.istockphoto.com/id/466657178/photo/the-northern-lights-stream-across-the-arctic-sky-near-yellowknife.jpg?s=612x612&w=0&k=20&c=CkJzs9WRI-c6OA4XbAPVESbSUwRKmkYSjEM3FhufqlI="
+     
+    },
+    {
+      "id": 10,
+      "title": "Pyramids of Giza Tour",
+      "description": "Visit the ancient Pyramids of Giza in Egypt, the last surviving wonder of the ancient world.",
+      "date": "2025-04-05",
+      "location": "Cairo, Egypt",
+      "img": "https://media.istockphoto.com/id/1434687699/photo/the-sphinx-by-the-pyramids-of-giza-in-the-desert-of-egypt.jpg?s=612x612&w=0&k=20&c=hEBN84UmuM7iTYs7LffRz_kPsgt_B-_NLc9iOOhpkMs="
+      
+    },
+    {
+      "id": 11,
+      "title": "Grand Canyon Hike",
+      "description": "Hike along the rim or down to the base of the Grand Canyon, USA, to witness its awe-inspiring landscape.",
+      "date": "2025-04-08",
+      "location": "Grand Canyon, USA",
+      "img": "https://media.istockphoto.com/id/171293695/photo/hike-to-puebloean-granaries.jpg?s=612x612&w=0&k=20&c=4ZipeG3Itlud-fYFj3J5W5mBUYFAiKQg6SKbHXttnqg="
+      
+    },
+    {
+
+      "id": 12,
+      "title": "Santorini Sunset",
+      "description": "Enjoy a beautiful sunset over the caldera of Santorini, Greece, one of the most romantic spots in the world.",
+      "date": "2025-04-12",
+      "location": "Santorini, Greece",
+      "img": "https://media.istockphoto.com/id/541132240/photo/oia-at-sunset.jpg?s=612x612&w=0&k=20&c=kql4X3tMkOmYsa4PX45WK7-vHzpOk__IeAaHiz4VfyA="
+      
+    },
+    {
+      "id": 13,
+      "title": "Venice Canal Tour",
+      "description": "Take a gondola ride through the famous canals of Venice, Italy, and experience the city's unique charm.",
+      "date": "2025-04-15",
+      "location": "Venice, Italy",
+      "img": "https://media.istockphoto.com/id/1388018793/photo/grand-canal-in-venice.jpg?s=612x612&w=0&k=20&c=uDUrctquPNUPzlpNLwTkJIkc1Gig0aUWJknF6FrqxJE="
+      
+    },
+    {
+      "id": 14,
+      "title": "Kyoto Temple Visit",
+      "description": "Explore the historic temples of Kyoto, Japan, including the famous Golden Pavilion.",
+      "date": "2025-04-18",
+      "location": "Kyoto, Japan",
+      "img": "https://media.istockphoto.com/id/595729650/photo/yasaka-pagoda-of-gion-in-kyoto-japan.jpg?s=612x612&w=0&k=20&c=KDiP8A9pCkozOAAPROjM2a8XQfecHBdM30DyD4_AIhM="
+     
+    },
+    {
+      "id": 15,
+      "title": "Mount Everest Base Camp Trek",
+      "description": "Embark on a challenging trek to the Everest Base Camp, Nepal, to see the world’s highest peak.",
+      "date": "2025-04-20",
+      "location": "Lukla, Nepal",
+      "img": "https://media.istockphoto.com/id/1441831484/photo/beautiful-view-of-everest-base-camp-in-khumjung-nepal-with-flags-under-the-blue-sky.jpg?s=612x612&w=0&k=20&c=d3se06ET5LLjNd_kOyb2YDdWBdRtUnO7Nf36o_jQNLk="
+      
+    },
+    {
+
+      "id": 16,
+      "title": "Colosseum Exploration",
+      "description": "Visit the Colosseum in Rome, Italy, and step into the arena where gladiators once fought.",
+      "date": "2025-04-22",
+      "location": "Rome, Italy",
+      "img": "https://media.istockphoto.com/id/487544882/photo/woman-tourist-at-colosseum-rome.jpg?s=612x612&w=0&k=20&c=RZrOAKoruvlJEH_90JhjDxn70AiaSZzgQRe_m1k3Ijs="
+      
+    },
+    {
+      "id": 17,
+      "title": "New York City Sightseeing",
+      "description": "Explore the iconic landmarks of New York City, including Times Square, Central Park, and the Statue of Liberty.",
+      "date": "2025-04-25",
+      "location": "New York City, USA",
+      "img": "https://media.istockphoto.com/id/1360904363/photo/statue-of-liberty-n-new-york.jpg?s=612x612&w=0&k=20&c=lyzsmOrl-fmqe28LNaxgTtpBHegPSRTyzLkYxWICbm8="
+      
+    },
+    {
+      "id": 18,
+      "title": "Rio de Janeiro Carnival",
+      "description": "Experience the world-famous Carnival in Rio de Janeiro, Brazil, with vibrant parades and samba music.",
+      "date": "2025-04-28",
+      "location": "Rio de Janeiro, Brazil",
+      "img": "https://media.istockphoto.com/id/1092658314/photo/parade-of-the-samba-school-salgueiro-at-the-carnival-2018-in-rio-de-janeiro.jpg?s=612x612&w=0&k=20&c=pQTOLX-BKs_cqEkGal4bIZCNCbtU1sr7L8mREmlClSw="
+      
+    },
+    {
+      "id": 19,
+      "title": "Mount Kilimanjaro Climb",
+      "description": "Climb Mount Kilimanjaro in Tanzania, the tallest mountain in Africa, for a once-in-a-lifetime adventure.",
+      "date": "2025-05-02",
+      "location": "Kilimanjaro, Tanzania",
+      "img": "https://media.istockphoto.com/id/625058698/photo/kilimanjaro-and-camping-tents-tanzania-africa.jpg?s=612x612&w=0&k=20&c=8wVEhL8pc5bpwl7oUCjH6GQ0x6nc0dqKcvJqkokHQJ0="
+     
+    },
+    {
+      "id": 20,
+      "title": "Dubai Desert Safari",
+      "description": "Take a thrilling desert safari in Dubai, United Arab Emirates, with dune bashing and camel rides.",
+      "date": "2025-05-05",
+      "location": "Dubai, UAE",
+      "img": "https://media.istockphoto.com/id/517702606/photo/life-as-opening.jpg?s=612x612&w=0&k=20&c=LmJy0mxZMXPliWf8pHRFFz5cR4Kuy1Ft6tcnIvwJKBE="
+      
+    },
+    {
+      "id": 21,
+      "title": "Antarctica Cruise",
+      "description": "Set sail on a cruise to Antarctica, exploring icebergs, wildlife, and the pristine landscape.",
+      "date": "2025-05-10",
+      "location": "Antarctica",
+      "img": "https://media.istockphoto.com/id/148329826/photo/overview-of-large-cruise-ship-sailing-through-icy-waters.jpg?s=612x612&w=0&k=20&c=0G-gmKBErtgxIzqsr5YF3Bkq317jCFGforZ0y1UwM4s="
+      
+    },
+    {
+      "id": 22,
+      "title": "Amazon Rainforest Adventure",
+      "description": "Take a guided adventure through the Amazon Rainforest in Brazil, encountering unique wildlife and lush nature.",
+      "date": "2025-05-12",
+      "location": "Manaus, Brazil",
+      "img": "https://media.istockphoto.com/id/984498052/photo/sunset-in-the-amazon-rainforest-river-basin.jpg?s=612x612&w=0&k=20&c=MDE6tyI1WWNlkBCy2QFWX2NBMF6A1pOrgfv0TxJah58="
+      
+    },
+    {
+      "id": 23,
+      "title": "Machu Picchu Sunrise",
+      "description": "Watch the sunrise over the ancient ruins of Machu Picchu, Peru.",
+      "date": "2025-05-15",
+      "location": "Cusco, Peru",
+      "img": "https://media.istockphoto.com/id/1008478334/photo/sunrise-over-machu-picchu-mountain.jpg?s=612x612&w=0&k=20&c=_fp1Q2MMqLhCwAvauWVgrc5q7oFeGVD7WlhfDrQwvUY="
+     
+    },
+    {
+      "id": 24,
+      "title": "Bali Beach Day",
+      "description": "Relax on the pristine beaches of Bali, Indonesia, with crystal-clear waters and great surf.",
+      "date": "2025-05-18",
+      "location": "Bali, Indonesia",
+      "img": "https://media.istockphoto.com/id/680695016/photo/manta-bay-or-kelingking-beach-on-nusa-penida-island-bali-indonesia.jpg?s=612x612&w=0&k=20&c=xMaO-smS_vfcoTxlO9ty2tA6o-m4fgu9h1iF-GZ5uZs="
+      
+    },
+    {
+      "id": 25,
+      "title": "Zhangjiajie Glass Bridge Walk",
+      "description": "Take a thrilling walk across the Zhangjiajie Glass Bridge in China, with stunning views of the valley below.",
+      "date": "2025-05-20",
+      "location": "Zhangjiajie, China",
+      "img": "https://media.istockphoto.com/id/1028986032/photo/grand-canyon-glass-bridge-hiking-trail-trip-at-wulingyuan-zhangjiajie-china.jpg?s=612x612&w=0&k=20&c=PU6Q-kr-Gepzz-zAvwO0NUgDaR2jSDYRviClOBjY1x8="
+      
+    },
+    {
+
+      "id": 26,
+      "title": "Tokyo Disneyland Visit",
+      "description": "Visit the magical Tokyo Disneyland, Japan, and experience thrilling rides and Disney characters.",
+      "date": "2025-05-22",
+      "location": "Tokyo, Japan",
+      "img": "https://media.istockphoto.com/id/1498729754/photo/disneyland-hong-kong.jpg?s=612x612&w=0&k=20&c=0hE6LQbOK3DVvQlDJ-oImR6diBk_UO8Gq-rv0tuoa0U="
+      
+    },
+    {
+
+      "id": 27,
+      "title": "Cairo Museum Tour",
+      "description": "Explore the Egyptian Museum in Cairo, home to thousands of ancient artifacts, including the treasures of King Tutankhamun.",
+      "date": "2025-05-25",
+      "location": "Cairo, Egypt",
+      "img": "https://media.istockphoto.com/id/2151426729/photo/exterior-view-of-gem-the-grand-egyptian-museum-new-giza-museum-egypts-gift-to-the-world-the.jpg?s=612x612&w=0&k=20&c=ajFw89V8_2XvU54W1QAui2uASnkqTIkAdOjUlrpqods="
+      
+    },
+    {
+      "id": 28,
+      "title": "Stonehenge Visit",
+      "description": "Visit the mysterious Stonehenge in Wiltshire, England, and learn about its ancient history.",
+      "date": "2025-06-02",
+      "location": "Wiltshire, England",
+      "img": "https://media.istockphoto.com/id/168275847/photo/dusk-at-stonehenge-in-the-spring.jpg?s=612x612&w=0&k=20&c=h92yNoLW_fj3A7uGJXKvjHP36Jrs0QQH2USWs5Wv6AU="
+      
+    },
+    {
+      "id": 29,
+      "title": "Local Wine Tasting in Napa Valley",
+      "description": "Indulge in a local wine-tasting experience in Napa Valley, California, and enjoy some of the world’s best wines.",
+      "date": "2025-06-05",
+      "location": "Napa Valley, USA",
+      "img": "https://media.istockphoto.com/id/1249310408/photo/wine-tourism-vineyards-landscapes-and-glasses-in-open-air.jpg?s=612x612&w=0&k=20&c=V-JFoBJxxXUmKF1Z5b7y39d_0g33F_Z3crUcWFfxJmU="
+      
+    },
+    {
+      "id": 30,
+      "title": "Barbecue Tour in Texas",
+      "description": "Join a local barbecue tour in Texas, USA, to taste the best slow-cooked meats in the state.",
+      "date": "2025-06-08",
+      "location": "Texas, USA",
+      "img": "https://media.istockphoto.com/id/1301440866/photo/dallas-steak-house-restaurant-exterior-with-native-american-wooden-statue-at-the-entrance.jpg?s=612x612&w=0&k=20&c=-UWjAjxv2E-6dRrV_T-jbgZVl5054OnHTHw9mvStZOs="
+    },
+    {
+
+      "id": 31,
+      "title": "Explore Local Markets in Marrakech",
+      "description": "Experience the vibrant markets of Marrakech, Morocco, where local artisans sell spices, textiles, and handicrafts.",
+      "date": "2025-06-12",
+      "location": "Marrakech, Morocco",
+      "img": "https://media.istockphoto.com/id/2174849168/photo/lively-marketplace-in-morocco-showcasing-vibrant-fruits-and-bustling-street-vendors.jpg?s=612x612&w=0&k=20&c=kTemrti287iW82jPnjJnH8pAhXvurnRaVALHlG-wpE4="
+    }
+  ]
