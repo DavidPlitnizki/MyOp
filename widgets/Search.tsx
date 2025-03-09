@@ -17,10 +17,8 @@ const Search = ({ onFilterData }: IProps) => {
   }, [search]);
 
   useEffect(() => {
-    if (debouncedSearch) {
-      onFilterData(search);
-    }
-  }, [debouncedSearch, onFilterData, search]);
+    onFilterData(debouncedSearch);
+  }, [debouncedSearch, onFilterData]);
 
   return (
     <div className="flex border py-2 px-4 rounded-2xl shadow-2xl">
