@@ -78,6 +78,7 @@ export default function handler(
     } else {
       res.status(500).json({data: [], maxLength, error: 'Something Wrong' })
     }
-   
+  } else {
+    res.status(500).json({data: [], maxLength: 0, error: 'Not Supported Method' })
   }
 }
